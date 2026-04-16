@@ -1,0 +1,1 @@
+{\n  \"name\": \"web-proxy\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A simple web proxy server\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\"\n  },\n  \"dependencies\": {\n    \"express\": \"^4.17.1\",\n    \"http-proxy-middleware\": \"^1.0.6\"\n  },\n  \"author\": \"r48866657-spec\",\n  \"license\": \"ISC\"\n}
